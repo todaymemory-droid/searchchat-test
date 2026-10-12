@@ -1,1 +1,10 @@
-# searchchat-test
+# JJUAP SearchChat Test
+
+쭈압의 서치챗 문서 읽기 검증용 공개 기록입니다.
+
+## 현재 기록
+
+VERSION: A
+BODY_CODE: 5F477DB5F097C7F620FB5461
+
+<!-- SOURCE_CODE: E72FB295E23671894904C4BA -->
